@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "typeRoots": [
+      "node_modules/@types/"
+    ],
+    "types": [
+      "node",
+      "react",
+    ],
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "allowJs": false,
+    "checkJs": false,
+    "maxNodeModuleJsDepth": 30,
+    "baseUrl": ".",
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "alwaysStrict": true,
+    "sourceMap": false,
+    "skipLibCheck": true
+  }
+}
